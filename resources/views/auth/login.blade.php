@@ -2,10 +2,10 @@
 @section('title','Login')
 @section('content')
 <div class="container">
-    <div class="row justify-content-center align-content-center" style="height: 100vh;">
-        <div class="col-md-4">
+    <div class="row justify-content-center align-content-center" style="height: 92vh;">
+        <div class="col-lg-4 col-md-6">
             <div class="text-center mb-3">
-               <h2>Host Myanmar</h2>
+                <img src="{{asset('assets/img/avatars/naoki.png')}}" alt="Naoki" width="100px"/>
              </div>
             <div class="card card-theme">
                 <div class="card-body">

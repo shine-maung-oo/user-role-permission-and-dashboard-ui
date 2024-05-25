@@ -2,7 +2,7 @@
     <div class="app-brand demo mt-3">
         <a href="/" class="app-brand-link">
             <span class="app-brand-logo demo">
-                <img src="{{asset('assets/img/avatars/naoki.png')}}" alt class="w-px-40 h-auto" />
+                <img src="{{asset('assets/img/avatars/naoki.png')}}" alt="naoki" class="w-px-40 h-auto" />
 
                 {{-- <svg width="25" viewBox="0 0 25 42" version="1.1" xmlns="http://www.w3.org/2000/svg"
                     xmlns:xlink="http://www.w3.org/1999/xlink">
